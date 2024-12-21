@@ -1,3 +1,3 @@
-module github.com/deadlysurgery/rotaryphone
+module github.com/deadlysurgeon/rotaryphone
 
 go 1.23.3
